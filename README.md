@@ -1,4 +1,4 @@
-# circleci-cached-folder
+# CircleCI: Cached Folder
 
 This is a Circle CI orb (aka library) for caching a whole folder of generated code or files.
 
